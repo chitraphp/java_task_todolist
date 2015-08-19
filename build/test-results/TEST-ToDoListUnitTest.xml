@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ToDoListUnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2015-08-19T18:15:14" hostname="epicodus-114.local" time="0.001">
+  <properties/>
+  <testcase name="find_returnsNullWhenNoTaskFound_null" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="clear_emptiesAllTasksFromArrayList" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="isCompleted_isFalseAfterInstantiaon_false" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="todolist_instantiatesCorrectly_true" classname="ToDoListUnitTest" time="0.001"/>
+  <testcase name="getCreateAt_instantiatesWithCurrentTime_today" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="newId_tasksInstantiateWithAnID_true" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="all_returnsAllInstancesOfTask_true" classname="ToDoListUnitTest" time="0.0"/>
+  <testcase name="todolist_instantiatesWithDescription_true" classname="ToDoListUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
