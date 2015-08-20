@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "java_task_todoList"
 version = '1.0'
-mainClassName = "Task"
+mainClassName = "App"
 
 repositories {
  mavenCentral()
